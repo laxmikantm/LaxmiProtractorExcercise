@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="CRUD Operations-Laxmi" timestamp="2017-02-20T00:02:01" hostname="localhost" time="7.79" errors="0" tests="5" skipped="0" failures="0">
+  <testcase classname="CRUD Operations-Laxmi" name="should have correct homepage title" time="0.017">
+  </testcase>
+  <testcase classname="CRUD Operations-Laxmi" name="should be able to add new record" time="2.523">
+  </testcase>
+  <testcase classname="CRUD Operations-Laxmi" name="should be able to search the newly added record" time="0.801">
+  </testcase>
+  <testcase classname="CRUD Operations-Laxmi" name="should be able to amend the record" time="1.943">
+  </testcase>
+  <testcase classname="CRUD Operations-Laxmi" name="should be able to delete the record" time="1.786">
+  </testcase>
+ </testsuite>
+</testsuites>

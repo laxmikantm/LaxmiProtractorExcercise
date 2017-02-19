@@ -1,0 +1,47 @@
+[
+  {
+    "description": "should have correct homepage title",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17
+  },
+  {
+    "description": "should be able to add new record",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2523
+  },
+  {
+    "description": "should be able to search the newly added record",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 801
+  },
+  {
+    "description": "should be able to amend the record",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1944
+  },
+  {
+    "description": "should be able to delete the record",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1786
+  }
+]
